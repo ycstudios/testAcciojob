@@ -1,0 +1,65 @@
+body{
+    background-color:#1A1A1C;
+    color: white;
+}
+.logocoin{
+    height:30px;
+
+
+}
+
+.coinsTabes{
+    justify-items: center;
+    align-items: center;
+    margin-top: 80px;
+}
+.serachbar{
+    border: 1px solid #8E8E8E;
+    padding:10px;
+    margin-right: 8px;
+    width: 650px;
+    font-size: 16px;
+    background-color:#1A1A1C;
+    margin-bottom: 20px;
+    color:#FFFFFF;
+
+}
+.tableBody{
+    background-color:#1A1A1C;
+    border: none;
+    padding: 20px;
+}
+.tabel{
+    border: none;
+    padding: 20px;
+}
+.mktbtn,.percBtn{
+    background-color:#1A1A1C;
+    border: 1px solid #8E8E8E;
+
+    font-size: 16px;
+    padding: 10px;
+    margin-right: 10px;
+    color: white;
+}
+
+.tabelData{
+    padding: 10px;
+    width: 150px;
+    border-bottom: 1px solid;
+}
+.tables{
+    padding: 20px;
+}
+
+.percnetage{
+    color: rgb(49, 173, 49);
+    border-bottom: 1px solid white;
+}
+.imgdata{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    gap: 20px;
+}
